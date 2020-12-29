@@ -91,11 +91,11 @@ a:hover {
     background-image: linear-gradient(to right, rgba(0, 162, 255, 0.4), rgba(255, 0, 255, 0.2)), url(../images/bg1.jpg);
 }
 
-.swiper-container-lovexhj1 {
+.swiper-container-lovecyj1 {
     width: 550px;
 }
 
-.page1-lovexhj1 img {
+.page1-lovecyj1 img {
     width: 100px;
     border-radius: 50%;
     margin-bottom: 20px;
@@ -123,7 +123,7 @@ a:hover {
     padding-top: 5%;
 }
 
-.swiper-container-lovexhj2 
+.swiper-container-lovecyj2
 .swiper-wrapper 
 .swiper-slide {
     width: 400px;
@@ -149,7 +149,7 @@ a:hover {
     padding-top: 200px;
 }
 
-#talkToXHJ {
+#talkToCYJ {
     width: 750px;
     padding: 50px 100px;
     background-color: rgba(0, 0, 0, 0.3);
@@ -159,11 +159,11 @@ a:hover {
     text-shadow: 0 0 3px black;
 }
 
-#talkToXHJ b {
+#talkToCYJ b {
     font-size: 25px;
 }
 
-#talkToXHJ p {
+#talkToCYJ p {
     font-size: 20px;
 }
 
@@ -186,12 +186,12 @@ a:hover {
     /* background-color: blue; */
 }
 
-.swiper-container-lovexhj3 {
+.swiper-container-lovecyj3 {
     margin-top: 60px;
     height: 500px;
 }
 
-.swiper-container-lovexhj3 
+.swiper-container-lovecyj3
 .swiper-wrapper 
 .swiper-slide {
     width: 100%;
@@ -199,7 +199,7 @@ a:hover {
     background-color: rgba(255, 255, 255, 0);
 }
 
-.swiper-container-lovexhj3 
+.swiper-container-lovecyj3
 .swiper-wrapper 
 .swiper-slide 
 img {
@@ -257,29 +257,29 @@ img {
     border-radius: 20px;
 }
 
-/* 两只XHJ一样的猪 */
-.xhjIsPig .pig1,
+/* 两只CYJ一样的猪 */
+.cyjIsPig .pig1,
 .pig2 {
     position: fixed;
     z-index: 99;
     width: 150px;
 }
 
-.xhjIsPig .pig1 {
+.cyjIsPig .pig1 {
     right: -10px;
     bottom: 0;
     transform: rotate(-25deg);
-    animation: xhjPigRun1 2s infinite;
+    animation: cyjPigRun1 2s infinite;
 }
 
-.xhjIsPig .pig2 {
+.cyjIsPig .pig2 {
     left: -30px;
     bottom: 0;
     transform: scaleX(-1) rotate(-90deg);
-    animation: xhjPigRun2 5s infinite;
+    animation: cyjPigRun2 5s infinite;
 }
 
-@keyframes xhjPigRun1 {
+@keyframes cyjPigRun1 {
     0% {
         transform: scale(1) rotate(-25deg);
     }
@@ -293,7 +293,7 @@ img {
     }
 }
 
-@keyframes xhjPigRun2 {
+@keyframes cyjPigRun2 {
     0% {
         bottom: 0;
     }
@@ -313,7 +313,7 @@ img {
         padding-top: 80px;
     }
 
-    #talkToXHJ {
+    #talkToCYJ {
         width: 500px;
         padding: 50px 50px;
     }
@@ -346,7 +346,7 @@ img {
         padding-top: 150px;
     }
 
-    .swiper-container-lovexhj1 {
+    .swiper-container-lovecyj1 {
         width: 400px;
         height: 500px;
     }
@@ -356,7 +356,7 @@ img {
         padding-top: 80px;
     }
 
-    .swiper-container-lovexhj2 {
+    .swiper-container-lovecyj2 {
         height: 450px;
     }
 
@@ -369,16 +369,16 @@ img {
         height: 800px;
     }
 
-    #talkToXHJ {
+    #talkToCYJ {
         width: 350px;
         padding: 30px 30px;
     }
 
-    #talkToXHJ b {
+    #talkToCYJ b {
         font-size: 23px;
     }
     
-    #talkToXHJ p {
+    #talkToCYJ p {
         font-size: 15px;
     }
 
@@ -394,7 +394,7 @@ img {
         width: 100%;
     }
 
-    .swiper-container-lovexhj3 
+    .swiper-container-lovecyj3
     .swiper-wrapper 
     .swiper-slide 
         img {
@@ -417,12 +417,12 @@ img {
         height: 560px;
     }
 
-    .xhjIsPig .pig1,
+    .cyjIsPig .pig1,
     .pig2 {
         width: 130px;
     }
 
-    .xhjIsPig .pig2 {
+    .cyjIsPig .pig2 {
         left: -25px;
     }
 }
@@ -437,16 +437,16 @@ img {
         padding-top: 150px;
     }
 
-    .swiper-container-lovexhj1 {
+    .swiper-container-lovecyj1 {
         width: 90%;
         height: 500px;
     }
 
-    .page1-lovexhj1 {
+    .page1-lovecyj1 {
         font-size: 15px;
     }
 
-    .page1-lovexhj1 img {
+    .page1-lovecyj1 img {
         width: 70px;
     }
 
@@ -459,7 +459,7 @@ img {
         padding-top: 80px;
     }
 
-    .swiper-container-lovexhj2 {
+    .swiper-container-lovecyj2 {
         width: 80%;
         height: 500px;
     }
@@ -473,16 +473,16 @@ img {
         height: 900px;
     }
 
-    #talkToXHJ {
+    #talkToCYJ {
         width: 80%;
         padding: 20px 10px;
     }
 
-    #talkToXHJ b {
+    #talkToCYJ b {
         font-size: 23px;
     }
     
-    #talkToXHJ p {
+    #talkToCYJ p {
         font-size: 15px;
     }
 
@@ -498,7 +498,7 @@ img {
         width: 100%;
     }
 
-    .swiper-container-lovexhj3 
+    .swiper-container-lovecyj3
     .swiper-wrapper 
     .swiper-slide 
         img {
@@ -521,12 +521,12 @@ img {
         height: 560px;
     }
 
-    .xhjIsPig .pig1,
+    .cyjIsPig .pig1,
     .pig2 {
         width: 80px;
     }
 
-    .xhjIsPig .pig2 {
+    .cyjIsPig .pig2 {
         left: -15px;
     }
 }
